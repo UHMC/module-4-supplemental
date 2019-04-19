@@ -18,16 +18,21 @@
 ## Assignment Instructions
 1. Parity should be downloaded from [Parity.](Parity) Make sure to download the beta version of Parity (v2.5.0+) as it allows the creation of a full node for testnetworks like Rinkeby.
 
+
 ![Beta](beta.PNG)
+
 2. Open a command prompt by holding the Windows key and pressing R. Then type in "cmd." and press enter. You should see a black window pop up, we will be using it to execute parity.exe that was downloaded earlier.
 	* Sidenote, "cd" is a command to change the active directory of the command prompt. By default, it opens at the root of your user directory. We used it in this case to go into our Downloads folder. If your browser downloads files elsewhere, give a full path such as `cd C:\Users\YourUsername\Somefolder\Someotherfolder`
 
+
 ![Parityexec](parityexec.PNG)
+
 3. Execute parity with --version just like in the above screenshot to make sure that you are using the correct version. We are looking for v2.5.0 and above.
 4. We are going to execute Parity with a flag to sync with the [Rinkeby testnet.](Rinkeby) The command is:
 ```
 parity.exe --chain rinkeby
 ```
+
 ![ParityRinkeby](parityrinkeby.PNG)
 
 
