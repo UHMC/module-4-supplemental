@@ -16,7 +16,7 @@
 | Variants | There are other Parity-compatible software that works on top of it, which may be covered in another lab. |
 
 ## Assignment Instructions
-1. Parity should be downloaded from [Parity.](Parity) Make sure to download the beta version of Parity (v2.5.0+) as it allows the creation of a full node for testnetworks like Rinkeby.
+1. [Download Parity from here.][Parity] Make sure to download the beta version of Parity (v2.5.0+) as it allows the creation of a full node for test networks like Rinkeby.
 
 
 ![Beta](beta.PNG)
@@ -28,7 +28,7 @@
 ![Parityexec](parityexec.PNG)
 
 3. Execute parity with --version just like in the above screenshot to make sure that you are using the correct version. We are looking for v2.5.0 and above.
-4. We are going to execute Parity with a flag to sync with the [Rinkeby testnet.](Rinkeby) The command is:
+4. We are going to execute Parity with a flag to sync with the [Rinkeby testnet.][Rinkeby] The command is:
 ```
 parity.exe --chain rinkeby
 ```
