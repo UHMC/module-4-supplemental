@@ -15,7 +15,7 @@
 | Dependencies | Machine running Windows OS, internet connection |
 | Variants | There are other Parity-compatible software that works on top of it, which may be covered in another lab. |
 
-## Assignment Instructions
+## Assignment Instructions (5 Minutes or Forever)
 1. [Download Parity from here.][Parity] Make sure to download the beta version of Parity (v2.5.0+) as it allows the creation of a full node for test networks like Rinkeby.
 
 
