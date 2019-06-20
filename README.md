@@ -1,4 +1,4 @@
-# Module 4 - Intermediate Lab: Creating a full node with the Parity framework
+# Module 4 - Supplemental Lab: Creating a Full Node with the Parity Framework
 
 ## Background
 
