@@ -34,6 +34,7 @@ parity.exe --chain rinkeby
 ```
 
 ![ParityRinkeby](parityrinkeby.PNG)
+5. Your machine is now running a full node client and synchronizing with the Rinkeby test network. Your machine is part of the network for as long as this program runs. To end it, press and hold the `Ctrl` key, then press the `c` key; release both keys. You can close the command prompt window.
 
 
 ## Credits
